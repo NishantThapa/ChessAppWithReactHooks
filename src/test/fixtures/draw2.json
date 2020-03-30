@@ -1,0 +1,89 @@
+{
+    "gameVersion": "0.0.11",
+    "gameId": "draw2",
+    "gameSavedAt": "2020-03-15T22:28:51.185Z",
+    "gameStartedAt": "2020-03-15T22:27:25.267Z",
+    "gameEndedAt": null,
+    "totalTimePlayed": "PT0S",
+    "players": [
+        { "playerId": "a4273616-c229-46d8-97f2-20cfbc9a007f", "color": 0 },
+        { "playerId": "3432616b-d36b-4920-9ae2-23c21f35905e", "color": 1 }
+    ],
+    "moves": [],
+    "currentTurn": 6,
+    "pieces": [
+        {
+            "id": "ae72f614-d15a-4152-882d-57209beb24b1",
+            "type": "king",
+            "x": 4,
+            "y": 6,
+            "player": 0,
+            "firstMove": true
+        },
+        {
+            "id": "32208e13-69ce-4a1d-a258-3a0e663b0e9d",
+            "type": "queen",
+            "x": 4,
+            "y": 4,
+            "player": 1,
+            "firstMove": false
+        },
+        {
+            "id": "3e9bc95a-9405-4bfa-a89c-c0b506e8ac9e",
+            "type": "rook",
+            "x": 0,
+            "y": 7,
+            "player": 1,
+            "firstMove": true
+        },
+        {
+            "id": "0f116493-2cee-4166-b919-a3e88e44fe9c",
+            "type": "rook",
+            "x": 7,
+            "y": 7,
+            "player": 1,
+            "firstMove": true
+        },
+        {
+            "id": "abc",
+            "type": "pawn",
+            "x": 3,
+            "y": 5,
+            "player": 0,
+            "firstMove": false
+        },
+        {
+            "id": "6c8d2486-d572-4d8b-8fec-f59be0ff7bdd",
+            "type": "pawn",
+            "x": 3,
+            "y": 6,
+            "player": 0,
+            "firstMove": true
+        },
+        {
+            "id": "666a51d0-82b0-4fdc-bb3d-c87eed259de2",
+            "type": "pawn",
+            "x": 5,
+            "y": 6,
+            "player": 0,
+            "firstMove": true
+        },
+        {
+            "id": "8319bca8-23cc-4301-bf32-24079feb879a",
+            "type": "pawn",
+            "x": 5,
+            "y": 5,
+            "player": 0,
+            "firstMove": false
+        },
+        {
+            "id": "39f7c8e6-6e4c-4fcb-990a-6954b3500a9c",
+            "type": "king",
+            "x": 4,
+            "y": 0,
+            "player": 1,
+            "firstMove": true
+        }
+    ],
+    "removedPieces": [[], []]
+}

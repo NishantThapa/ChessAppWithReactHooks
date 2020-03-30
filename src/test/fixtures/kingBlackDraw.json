@@ -1,0 +1,55 @@
+{
+    "gameVersion": "0.0.11",
+    "gameId": "kingBlackDraw",
+    "gameSavedAt": "2020-03-15T21:17:05.269Z",
+    "gameStartedAt": "2020-03-15T21:16:53.575Z",
+    "gameEndedAt": null,
+    "totalTimePlayed": "PT0S",
+    "players": [
+        { "playerId": "whitePlayer", "color": 0 },
+        { "playerId": "blackPlayer", "color": 1 }
+    ],
+    "currentTurn": 0,
+    "pieces": [
+        {
+            "id": "5287039e-e449-42aa-8ae3-af350995b46a",
+            "type": "knight",
+            "x": 7,
+            "y": 0,
+            "player": 0
+        },
+        {
+            "id": "609675cd-b8f4-4997-b716-578d7a414c62",
+            "type": "king",
+            "x": 5,
+            "y": 3,
+            "player": 1,
+            "firstMove": true
+        },
+        {
+            "id": "95517702-2ff8-4b12-b87d-08d97976b4a2",
+            "type": "rook",
+            "x": 0,
+            "y": 2,
+            "player": 0,
+            "firstMove": true
+        },
+        {
+            "id": "f55f2cfa-299e-44e6-9e21-77ffc97a6f28",
+            "type": "rook",
+            "x": 7,
+            "y": 4,
+            "player": 0,
+            "firstMove": true
+        },
+        {
+            "id": "609675cd-b8f4-4997-b716-578d7a414c62",
+            "type": "king",
+            "x": 0,
+            "y": 0,
+            "player": 0,
+            "firstMove": true
+        }
+    ],
+    "removedPieces": [[], []]
+}
